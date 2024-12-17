@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolnoorUtility", "GolnoorUtility\GolnoorUtility.csproj", "{7A579DBF-025A-4B8B-9F91-788B7B1507DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A579DBF-025A-4B8B-9F91-788B7B1507DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A579DBF-025A-4B8B-9F91-788B7B1507DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A579DBF-025A-4B8B-9F91-788B7B1507DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A579DBF-025A-4B8B-9F91-788B7B1507DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {894D5D6F-909B-4E2E-90E7-D2905D3E3C87}
+	EndGlobalSection
+EndGlobal
